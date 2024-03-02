@@ -1,1 +1,1 @@
-Write wrong code instead of chenges
+Write wrong code instead and changes
